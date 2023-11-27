@@ -1,5 +1,5 @@
 
-### Hello Amigos 👋 It's [Unique!](https://github.com/uniquepaliwal2003/uniquepaliwal2003)
+### Hello Amigos 👋 It's [Unique!](https://github.com/uniquepaliwal2003/)
 
 <br/>
 
