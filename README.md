@@ -27,7 +27,7 @@ Hi,I'm Unique paliwal 🙌, a Software Developer . Apart from that I love gettin
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- 📝[Portfolio]( - )
+  <!-- 📝[Portfolio]( - )  -->
 
 
 
