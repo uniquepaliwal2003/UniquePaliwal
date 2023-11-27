@@ -18,7 +18,6 @@
 Hi,I'm Unique paliwal 🙌, a Software Developer . Apart from that I love getting involved in Problem Solving and watching anime.❤✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 **Talking about Personal Stuffs:**
