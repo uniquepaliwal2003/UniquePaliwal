@@ -1,15 +1,19 @@
 
-### Hello Amigos 👋 It's [Unique!](https://github.com/uniquepaliwal2003/)
+<h1 align="center"> Hello Amigos 👋 It's <a href="https://github.com/uniquepaliwal2003/">Unique!</a>  </h1>
 
 <br/>
 
 
-<a href="https://www.linkedin.com/in/unique-paliwal-6a3456226/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/unique-paliwal-6a3456226/" target="blank">
+<img align="left" alt="Unique" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/paliwalunique/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/paliwalunique/" target="blank">
+<img align="left" alt="Unique" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://leetcode.com/AllUnique/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rammodi0509/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/zantro20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rammodedd6/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=uniquepaliwal2003&label=Profile%20views&color=0e75b6&style=flat" alt="uniquepaliwal2003" /> </p>
 
 <br />
 
@@ -18,6 +22,7 @@
 Hi,I'm Unique paliwal 🙌, a Software Developer . Apart from that I love getting involved in Problem Solving and watching anime.❤✌
 
 
+<img align="right" alt="image" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" />
 
 
 **Talking about Personal Stuffs:**
@@ -26,17 +31,14 @@ Hi,I'm Unique paliwal 🙌, a Software Developer . Apart from that I love gettin
 - 🌱 I’m currently learning Nextjs and TypeScript.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
+- 📫 How to reach me: Any of the Social-Media Platform or on (paliwalunique@gmail.com)
+- 
   <!-- 📝[Portfolio]( - )  -->
 
 
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
 ![Unique's github stats](https://github-readme-stats.vercel.app/api?username=uniquepaliwal2003&show_icons=true&hide_border=true)
+
+
+
+
+
