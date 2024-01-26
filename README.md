@@ -17,7 +17,7 @@
 
 <br />
 
-Hi,I'm Unique paliwal 🙌, a Software Developer . Apart from that I love getting involved in Problem Solving and watching anime.❤✌
+Hi,I'm Unique paliwal 🙌, a constantly learning and improving developer , currently trying to build two projects , firstly Second hand book store (website) for my college , so students can sell there old semester books to juniors and a blogging app to write blogs about the animes i love  . Apart from that I love getting involved in Problem Solving and watching anime.❤✌
 
 
 <img align="right" alt="image" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" />
